@@ -12,15 +12,21 @@ export default function AboutPage() {
           >
             Home
           </Link>
-          <Link href="/about-us" className="text-xl font-bold text-blue-600">
-            About Us
+          <Link href="/contact-us" className="text-xl font-bold text-blue-600">
+            Contact Us
+          </Link>
+          <Link
+            href="/invite"
+            className="text-gray-700 hover:text-blue-600 transition"
+          >
+            Invite
           </Link>
         </div>
       </nav>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 py-12 text-center">
-        <h1 className="text-4xl font-bold text-blue-700 mb-4">About Us</h1>
+        <h1 className="text-4xl font-bold text-blue-700 mb-4">Contact Us</h1>
         <p className="text-lg text-gray-600">
           We are a team of passionate developers dedicated to building
           high-quality web and mobile applications. Our mission is to simplify
