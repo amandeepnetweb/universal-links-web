@@ -1,0 +1,14 @@
+```
+"sha256_cert_fingerprints": [
+  "BA:3B:FC:64:36:8B:09:9D:45:88:D6:B8:53:AC:18:3C:6C:B2:4C:A6:75:53:29:F5:68:0A:4E:45:22:08:F1:1C",
+  "CC:39:66:8E:75:17:9B:CD:56:95:51:87:5C:6B:0A:9C:74:E0:FE:92:35:45:EB:11:27:E3:64:78:FB:6B:44:1B"
+]
+```
+
+Expo generated:
+"BA:3B:FC:64:36:8B:09:9D:45:88:D6:B8:53:AC:18:3C:6C:B2:4C:A6:75:53:29:F5:68:0A:4E:45:22:08:F1:1C"
+
+Generated using
+`keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android | grep SHA256`
+
+"CC:39:66:8E:75:17:9B:CD:56:95:51:87:5C:6B:0A:9C:74:E0:FE:92:35:45:EB:11:27:E3:64:78:FB:6B:44:1B"
