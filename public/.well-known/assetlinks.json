@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.qiko.app",
+      "package_name": "com.example.universallinks",
       "sha256_cert_fingerprints": [
         "BA:3B:FC:64:36:8B:09:9D:45:88:D6:B8:53:AC:18:3C:6C:B2:4C:A6:75:53:29:F5:68:0A:4E:45:22:08:F1:1C"
       ]
